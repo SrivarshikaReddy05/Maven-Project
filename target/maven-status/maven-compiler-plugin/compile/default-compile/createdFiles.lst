@@ -1,3 +1,6 @@
+com\app\process\AccountService.class
 com\app\process\LoggingTest.class
+com\app\process\FundTransferService.class
+com\app\process\MathOperation.class
 com\app\process\TransactionProcessing.class
 com\app\process\Account.class
