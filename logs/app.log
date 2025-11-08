@@ -1,0 +1,19 @@
+2025-11-07 14:48:44 INFO  com.app.process.LoggingTest - Info Message — Normal flow information
+2025-11-07 14:48:44 WARN  com.app.process.LoggingTest - Warning Message — Something might be off
+2025-11-07 14:48:44 ERROR com.app.process.LoggingTest - Error Message — Something failed
+2025-11-07 14:48:44 FATAL com.app.process.LoggingTest - Fatal Message — Critical system failure
+2025-11-07 14:49:10 INFO  com.app.process.LoggingTest - Info Message — Normal flow information
+2025-11-07 14:49:10 WARN  com.app.process.LoggingTest - Warning Message — Something might be off
+2025-11-07 14:49:10 ERROR com.app.process.LoggingTest - Error Message — Something failed
+2025-11-07 14:49:10 FATAL com.app.process.LoggingTest - Fatal Message — Critical system failure
+2025-11-07 14:49:10 ERROR com.app.process.LoggingTest - error in LoggingTest Cannot invoke "String.toLowerCase()" because "name" is null
+2025-11-07 15:20:01 INFO  com.app.process.LoggingTest - Info Message — Normal flow information
+2025-11-07 15:20:01 WARN  com.app.process.LoggingTest - Warning Message — Something might be off
+2025-11-07 15:20:01 ERROR com.app.process.LoggingTest - Error Message — Something failed
+2025-11-07 15:20:01 FATAL com.app.process.LoggingTest - Fatal Message — Critical system failure
+2025-11-07 15:20:01 ERROR com.app.process.LoggingTest - error in LoggingTest Cannot invoke "String.toLowerCase()" because "name" is null
+2025-11-07 15:21:33 INFO  com.app.process.LoggingTest - Info Message — Normal flow information
+2025-11-07 15:21:33 WARN  com.app.process.LoggingTest - Warning Message — Something might be off
+2025-11-07 15:21:33 ERROR com.app.process.LoggingTest - Error Message — Something failed
+2025-11-07 15:21:33 FATAL com.app.process.LoggingTest - Fatal Message — Critical system failure
+2025-11-07 15:21:33 ERROR com.app.process.LoggingTest - error in LoggingTest Cannot invoke "String.toLowerCase()" because "name" is null
